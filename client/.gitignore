@@ -1,3 +1,49 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+.vite/
+.cache/
+.parcel-cache/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage and reports
+coverage/
+coverage-final.json
+
+# Misc
+*.log
+*.tgz
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
 # Logs
 logs
 *.log
